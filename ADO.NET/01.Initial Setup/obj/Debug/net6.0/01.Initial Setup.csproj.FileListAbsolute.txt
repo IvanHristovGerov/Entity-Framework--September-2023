@@ -1,0 +1,22 @@
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\bin\Debug\net6.0\01.Initial Setup.exe
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\bin\Debug\net6.0\01.Initial Setup.deps.json
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\bin\Debug\net6.0\01.Initial Setup.runtimeconfig.json
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\bin\Debug\net6.0\01.Initial Setup.dll
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\bin\Debug\net6.0\01.Initial Setup.pdb
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\obj\Debug\net6.0\01.Initial Setup.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\obj\Debug\net6.0\01.Initial Setup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\obj\Debug\net6.0\01.Initial Setup.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\obj\Debug\net6.0\01.Initial Setup.AssemblyInfo.cs
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\obj\Debug\net6.0\01.Initial Setup.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\obj\Debug\net6.0\01.Initial Setup.csproj.CopyComplete
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\obj\Debug\net6.0\01.Initial Setup.dll
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\obj\Debug\net6.0\refint\01.Initial Setup.dll
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\obj\Debug\net6.0\01.Initial Setup.pdb
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\obj\Debug\net6.0\01.Initial Setup.genruntimeconfig.cache
+C:\Users\HP\source\repos\Entity Framework\ADO.NET\01.Initial Setup\obj\Debug\net6.0\ref\01.Initial Setup.dll
