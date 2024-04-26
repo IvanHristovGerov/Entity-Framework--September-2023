@@ -1,0 +1,210 @@
+Error: Medicine with ID 15 not found.
+Error: Medicine with ID 23 not found.
+Successfully imported patient - Ivan Petrov with 0 medicines.
+Error: Medicine with ID 16 not found.
+Error: Medicine with ID 26 not found.
+Successfully imported patient - Maria Ivanova with 0 medicines.
+Error: Medicine with ID 1 not found.
+Error: Medicine with ID 2 not found.
+Error: Medicine with ID 5 not found.
+Successfully imported patient - Georgi Dimitrov with 0 medicines.
+Error: Medicine with ID 1 not found.
+Error: Medicine with ID 4 not found.
+Error: Medicine with ID 23 not found.
+Error: Medicine with ID 27 not found.
+Successfully imported patient - Stafaniya Angelova with 0 medicines.
+Error: Medicine with ID 10 not found.
+Error: Medicine with ID 11 not found.
+Error: Medicine with ID 13 not found.
+Successfully imported patient - Dimitar Stoyanov with 0 medicines.
+Error: Medicine with ID 13 not found.
+Error: Medicine with ID 17 not found.
+Error: Medicine with ID 19 not found.
+Successfully imported patient - Lyubomir Vasilev with 0 medicines.
+Error: Medicine with ID 15 not found.
+Error: Medicine with ID 21 not found.
+Successfully imported patient - Elena Dimitrova with 0 medicines.
+Error: Medicine with ID 2 not found.
+Error: Medicine with ID 6 not found.
+Error: Medicine with ID 15 not found.
+Error: Medicine with ID 20 not found.
+Successfully imported patient - Petar Georgiev with 0 medicines.
+Invalid Data!
+Invalid Data!
+Error: Medicine with ID 1 not found.
+Error: Medicine with ID 4 not found.
+Error: Medicine with ID 13 not found.
+Successfully imported patient - Anton Popov with 0 medicines.
+Error: Medicine with ID 1 not found.
+Error: Medicine with ID 2 not found.
+Successfully imported patient - Ivelina Todorova with 0 medicines.
+Error: Medicine with ID 12 not found.
+Error: Medicine with ID 17 not found.
+Error: Medicine with ID 25 not found.
+Successfully imported patient - Kaloyan Mihaylov with 0 medicines.
+Error: Medicine with ID 15 not found.
+Error: Medicine with ID 25 not found.
+Successfully imported patient - Nikolina Petrova with 0 medicines.
+Error: Medicine with ID 11 not found.
+Error: Medicine with ID 22 not found.
+Successfully imported patient - Todor Aleksandrov with 0 medicines.
+Error: Medicine with ID 3 not found.
+Error: Medicine with ID 16 not found.
+Error: Medicine with ID 24 not found.
+Successfully imported patient - Anastasiya Ilieva with 0 medicines.
+Error: Medicine with ID 8 not found.
+Error: Medicine with ID 9 not found.
+Error: Medicine with ID 11 not found.
+Error: Medicine with ID 13 not found.
+Error: Medicine with ID 22 not found.
+Successfully imported patient - Borislava Kostova with 0 medicines.
+Error: Medicine with ID 28 not found.
+Error: Medicine with ID 29 not found.
+Successfully imported patient - Nikolay Zhelev with 0 medicines.
+Error: Medicine with ID 1 not found.
+Successfully imported patient - Margarita Stafanova with 0 medicines.
+Error: Medicine with ID 2 not found.
+Error: Medicine with ID 4 not found.
+Error: Medicine with ID 7 not found.
+Error: Medicine with ID 24 not found.
+Error: Medicine with ID 26 not found.
+Successfully imported patient - Stanimir Pavlov with 0 medicines.
+Error: Medicine with ID 23 not found.
+Successfully imported patient - Rositsa Hristova with 0 medicines.
+Error: Medicine with ID 23 not found.
+Successfully imported patient - Valeri Terziev with 0 medicines.
+Error: Medicine with ID 6 not found.
+Successfully imported patient - Desislava Marinova with 0 medicines.
+Error: Medicine with ID 13 not found.
+Error: Medicine with ID 14 not found.
+Error: Medicine with ID 27 not found.
+Successfully imported patient - Georgi Ivanov with 0 medicines.
+Error: Medicine with ID 25 not found.
+Successfully imported patient - Svetla Petrova with 0 medicines.
+Error: Medicine with ID 14 not found.
+Error: Medicine with ID 21 not found.
+Error: Medicine with ID 23 not found.
+Successfully imported patient - Yavor Dimitrov with 0 medicines.
+Error: Medicine with ID 28 not found.
+Error: Medicine with ID 29 not found.
+Successfully imported patient - Tsvetanka Yordanova with 0 medicines.
+Error: Medicine with ID 1 not found.
+Error: Medicine with ID 4 not found.
+Successfully imported patient - Angel Karaivanov with 0 medicines.
+Error: Medicine with ID 15 not found.
+Error: Medicine with ID 25 not found.
+Successfully imported patient - Emiliya Todorova with 0 medicines.
+Error: Medicine with ID 19 not found.
+Error: Medicine with ID 21 not found.
+Error: Medicine with ID 24 not found.
+Successfully imported patient - Zdravko Kolev with 0 medicines.
+Error: Medicine with ID 29 not found.
+Successfully imported patient - Violeta Georgieva with 0 medicines.
+Error: Medicine with ID 13 not found.
+Successfully imported patient - Radoslav Mihaylov with 0 medicines.
+Error: Medicine with ID 21 not found.
+Successfully imported patient - Iskra Ivanova with 0 medicines.
+Error: Medicine with ID 1 not found.
+Error: Medicine with ID 4 not found.
+Successfully imported patient - Vasil Petrov with 0 medicines.
+Error: Medicine with ID 15 not found.
+Successfully imported patient - Lidiya Nikolova with 0 medicines.
+Error: Medicine with ID 1 not found.
+Error: Medicine with ID 4 not found.
+Successfully imported patient - Dragomir Angelov with 0 medicines.
+Error: Medicine with ID 20 not found.
+Successfully imported patient - Katerina Savova with 0 medicines.
+Invalid Data!
+Error: Medicine with ID 4 not found.
+Error: Medicine with ID 2 not found.
+Successfully imported patient - Vasil Petrov with 0 medicines.
+Invalid Data!
+Invalid Data!
+Error: Medicine with ID 18 not found.
+Error: Medicine with ID 21 not found.
+Successfully imported patient - Iliana Georgieva with 0 medicines.
+Error: Medicine with ID 25 not found.
+Successfully imported patient - Stoyan Petrov with 0 medicines.
+Error: Medicine with ID 2 not found.
+Error: Medicine with ID 6 not found.
+Successfully imported patient - Mila Dimitrova with 0 medicines.
+Error: Medicine with ID 5 not found.
+Error: Medicine with ID 7 not found.
+Error: Medicine with ID 13 not found.
+Successfully imported patient - Nikolay Vasilev with 0 medicines.
+Invalid Data!
+Invalid Data!
+Error: Medicine with ID 2 not found.
+Error: Medicine with ID 20 not found.
+Successfully imported patient - Yana Popova with 0 medicines.
+Error: Medicine with ID 5 not found.
+Error: Medicine with ID 7 not found.
+Error: Medicine with ID 14 not found.
+Successfully imported patient - Vladimir Kolev with 0 medicines.
+Error: Medicine with ID 15 not found.
+Error: Medicine with ID 25 not found.
+Successfully imported patient - Tsvetelina Mihaylova with 0 medicines.
+Error: Medicine with ID 1 not found.
+Error: Medicine with ID 23 not found.
+Error: Medicine with ID 27 not found.
+Successfully imported patient - Georgi Todorov with 0 medicines.
+Error: Medicine with ID 6 not found.
+Successfully imported patient - Kalina Petrova with 0 medicines.
+Error: Medicine with ID 4 not found.
+Error: Medicine with ID 8 not found.
+Error: Medicine with ID 9 not found.
+Successfully imported patient - Ivan Angelov with 0 medicines.
+Error: Medicine with ID 25 not found.
+Error: Medicine with ID 27 not found.
+Successfully imported patient - Elitsa Kirilova with 0 medicines.
+Error: Medicine with ID 11 not found.
+Error: Medicine with ID 12 not found.
+Successfully imported patient - Radoslav Dimitrov with 0 medicines.
+Error: Medicine with ID 3 not found.
+Error: Medicine with ID 15 not found.
+Successfully imported patient - Silviya Zaharieva with 0 medicines.
+Error: Medicine with ID 19 not found.
+Successfully imported patient - Krasimir Yordanov with 0 medicines.
+Error: Medicine with ID 15 not found.
+Error: Medicine with ID 21 not found.
+Successfully imported patient - Valentina Tsvetkova with 0 medicines.
+Error: Medicine with ID 13 not found.
+Error: Medicine with ID 22 not found.
+Successfully imported patient - Borislav Marinov with 0 medicines.
+Error: Medicine with ID 3 not found.
+Error: Medicine with ID 16 not found.
+Successfully imported patient - Kristina Ivanova with 0 medicines.
+Error: Medicine with ID 13 not found.
+Error: Medicine with ID 24 not found.
+Successfully imported patient - Martin Georgiev with 0 medicines.
+Error: Medicine with ID 15 not found.
+Successfully imported patient - Aneliya Petrova with 0 medicines.
+Error: Medicine with ID 1 not found.
+Error: Medicine with ID 4 not found.
+Error: Medicine with ID 8 not found.
+Error: Medicine with ID 9 not found.
+Successfully imported patient - Svetoslav Todorov with 0 medicines.
+Error: Medicine with ID 16 not found.
+Error: Medicine with ID 21 not found.
+Successfully imported patient - Denitsa Hristova with 0 medicines.
+Error: Medicine with ID 13 not found.
+Error: Medicine with ID 18 not found.
+Successfully imported patient - Boyan Dimitrov with 0 medicines.
+Error: Medicine with ID 11 not found.
+Error: Medicine with ID 13 not found.
+Successfully imported patient - Ekaterina Vasileva with 0 medicines.
+Error: Medicine with ID 21 not found.
+Error: Medicine with ID 24 not found.
+Successfully imported patient - Viktor Popov with 0 medicines.
+Error: Medicine with ID 1 not found.
+Error: Medicine with ID 3 not found.
+Error: Medicine with ID 7 not found.
+Successfully imported patient - Radina Kostova with 0 medicines.
+Error: Medicine with ID 27 not found.
+Error: Medicine with ID 28 not found.
+Successfully imported patient - Spas Ivanov with 0 medicines.
+Error: Medicine with ID 25 not found.
+Successfully imported patient - Magdalena Stoyanova with 0 medicines.
+Error: Medicine with ID 13 not found.
+Error: Medicine with ID 16 not found.
+Successfully imported patient - Plamen Nikolov with 0 medicines.
